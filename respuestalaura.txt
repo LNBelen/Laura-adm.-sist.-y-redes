@@ -1,0 +1,22 @@
+alumna: Laura Noelia Belen
+
+CI/CD:
+Sirve para combinar o distribuir cambios en el codigo que son generados por desarrolladores en un repositorio central de manera continua, 
+lo que lleva a ejecutar las versiones o pruebas automaticas.
+Continuous integration (integracion continua) es para hacer practicas automatizadas para poder integrar el codigo de diferentes
+personas a un proyecto lo que significa que para que este todo bien se necesita que no haya ningun tipo de error ni problema entonces 
+en esta etapa es donde se detecta algunos problemas que puede tener el codigo, en caso de ser asi se tendra que solucionar el problema
+o no se llevara a cabo la integracion. En caso de que este todo bien el codigo sera mergeado.
+Continuous deployment (implementacion continua) es cuando pasa al ambiente de produccion una vez que haya sido mergeado.
+
+
+BENEFICIOS:
+	- desarrollar las diferentes versiones es mas facil.
+	- soluciones mas faciles y rapidas a problemas.
+	- permite realizar varias pruebas en custion de segundos.
+	- mejor control de calidad.
+
+
+AMBIENTE DE PRODUCCION, STAGING, PRUEBAS:
+Las 3 cosas hacen refencia a un mismo entorno. Es el espacio donde operará el sistema o aplicación, sirve para  probar códigos, construcciones 
+y actualizaciones antes de la implementación del sistema o aplicación.
