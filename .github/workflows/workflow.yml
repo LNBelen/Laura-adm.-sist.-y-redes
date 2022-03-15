@@ -1,11 +1,11 @@
-name: primer workflow (noe)
+name: primer workflow 
 
 on: [push]
 
 jobs: 
-  build: 
-    runs-on: windows-latest
+    build: 
+        runs-on: windows-latest
     
-    steps:
-     -name: echo a string
-      run: echo "hola mundo"
+        steps:
+        - name: echo a string
+          run: echo "hola mundo"
