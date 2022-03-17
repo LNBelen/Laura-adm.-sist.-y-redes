@@ -11,5 +11,5 @@ jobs:
           run: | 
                 echo "hola mundo"
                 pwd
-                ls
+                ls /home/runner/work/Laura-adm.-sist.-y-redes/Laura-adm.-sist.-y-redes
                 
