@@ -10,4 +10,5 @@ jobs:
         - name: echo a string
           run: | 
                 echo "hola mundo"
-                cp
+                pwd
+                
