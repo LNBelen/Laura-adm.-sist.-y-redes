@@ -11,4 +11,4 @@ jobs:
           run: | 
                 echo "hola mundo"
                 pwd
-                
+                cp workflow.yml /home/runner/work/Laura-adm.-sist.-y-redes/workflow2.yml 
