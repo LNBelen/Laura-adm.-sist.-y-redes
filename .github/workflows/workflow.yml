@@ -8,4 +8,6 @@ jobs:
     
         steps:
         - name: echo a string
-          run: echo "hola mundo"
+          run: | 
+                echo "hola mundo"
+                cp
