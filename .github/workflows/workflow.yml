@@ -10,6 +10,5 @@ jobs:
         - name: echo a string
           run: | 
                 echo "hola mundo"
-                pwd
                 ls /home/runner/work/Laura-adm.-sist.-y-redes/Laura-adm.-sist.-y-redes
                 
