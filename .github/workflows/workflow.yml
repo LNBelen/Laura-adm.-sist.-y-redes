@@ -7,7 +7,12 @@ jobs:
         runs-on: ubuntu-latest
     
         steps:
-        - name: echo a string
-          run: cp workflow.yml Laura-adm.-sist.-y-redes/.github/workflows/copiaworkflow.yml
+        
+        - name: nuevo directorio
+          run: |
+                cd /Home/runner/work/Laura-adm.-sist.-y-redes/Laura-adm.-sist.-y-redes/
+                mkdir directorionoe
+                cd /Home/runner/work/Laura-adm.-sist.-y-redes/Laura-adm.-sist.-y-redes/directorionoe/
+        
                 
               
