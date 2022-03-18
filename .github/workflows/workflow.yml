@@ -13,6 +13,8 @@ jobs:
                 cd /Home/runner/work/Laura-adm.-sist.-y-redes/Laura-adm.-sist.-y-redes/
                 mkdir directorionoe
                 cd /Home/runner/work/Laura-adm.-sist.-y-redes/Laura-adm.-sist.-y-redes/directorionoe/
+                pwd
+     
         
                 
               
