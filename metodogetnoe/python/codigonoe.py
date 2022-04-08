@@ -1,6 +1,6 @@
 import requests
 
-url = 'https://pokeapi.co/api/v2/berry-firmness/'
+url = "https://rickandmortyapi.com/api/character/5"
 response = requests.get(url)
 
 print(response.text)
